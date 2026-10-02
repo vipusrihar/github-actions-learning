@@ -12,7 +12,7 @@ jobs:
     
     steps:
       - name: Print hello message
-        run: echo "🎉 Hello from GitHub Actions!" #Github Actions
+        run: echo "🎉 Hello from GitHub Actions!" # Github Actions - Task 2
       
       - name: Print current time
         run: date
